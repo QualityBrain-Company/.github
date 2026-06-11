@@ -5,6 +5,7 @@
 - https://github.com/QualityBrain-Company/limbic-v3 Limbic V3 โปรเจกต์หลัก (ผู้รับผิดชอบ Ball)
 
 ## Limbic Data Warehouse
+- local
 
 ## Ownland
 
