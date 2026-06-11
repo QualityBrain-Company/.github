@@ -4,6 +4,8 @@
 
 - https://github.com/QualityBrain-Company/limbic-v3 Limbic V3 โปรเจกต์หลัก (ผู้รับผิดชอบ Ball)
 
+## Limbic Data Warehouse
+
 ## Ownland
 
 - https://github.com/QualityBrain-Company/ownland
@@ -14,3 +16,4 @@
 - https://github.com/QualityBrain-Company/agentstation-infra
 - https://github.com/QualityBrain-Company/agentstation-org
 - https://github.com/QualityBrain-Company/agentstation-mcp
+
