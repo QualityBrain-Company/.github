@@ -15,11 +15,9 @@
 
 - URL UAT 
 
-agentstation-infra/agentstation-org
-https://ai-web-uat.qualitybrain.tech/
+agentstation-infra/agentstation-org : https://ai-web-uat.qualitybrain.tech/
 
-agentstation-mcp
-https://mcp-agentstation-uat.qualitybrain.tech
+agentstation-mcp : https://mcp-agentstation-uat.qualitybrain.tech
 
 - https://github.com/QualityBrain-Company/agentstation-infra
 - https://github.com/QualityBrain-Company/agentstation-org
