@@ -24,3 +24,6 @@
 - https://github.com/QualityBrain-Company/agentstation-org
 - https://github.com/QualityBrain-Company/agentstation-mcp
 
+## Research
+
+- https://github.com/QualityBrain-Company/Smart-Energy-Optimization-for-Wastewater-Treatment-Using-Machine-Learning
