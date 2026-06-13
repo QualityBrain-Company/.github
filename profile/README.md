@@ -6,6 +6,11 @@
 
 ## Limbic Data Warehouse
 - local
+- https://github.com/QualityBrain-Company/limbic-data-warehouse-infra
+- https://github.com/QualityBrain-Company/limbic-data-warehouse-storage-layer
+- https://github.com/QualityBrain-Company/limbic-data-warehouse-ingestion-service
+- https://github.com/QualityBrain-Company/limbic-data-warehouse-consumption-layer
+- https://github.com/QualityBrain-Company/limbic-data-warehouse-transformation-service
 
 ## Ownland
 
