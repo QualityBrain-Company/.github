@@ -18,6 +18,10 @@
 - https://github.com/QualityBrain-Company/limbic-data-warehouse-consumption-layer
 - https://github.com/QualityBrain-Company/limbic-data-warehouse-transformation-service
 
+## BOTs
+
+- https://github.com/QualityBrain-Company/BOTs
+
 ## Ownland
 
 - https://github.com/QualityBrain-Company/ownland
