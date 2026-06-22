@@ -12,7 +12,7 @@
 
 ## Limbic Data Warehouse
 
-- https://github.com/QualityBrain-Company/limbic-data-warehouse-infra
+- https://github.com/QualityBrain-Company/data-warehouse-infra
 - https://github.com/QualityBrain-Company/limbic-data-warehouse-storage-layer
 - https://github.com/QualityBrain-Company/limbic-data-warehouse-ingestion-service
 - https://github.com/QualityBrain-Company/limbic-data-warehouse-consumption-layer
