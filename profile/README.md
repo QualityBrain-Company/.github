@@ -9,6 +9,7 @@
 - https://github.com/QualityBrain-Company/agentstation-infra
 - https://github.com/QualityBrain-Company/agentstation-org (https://ai-web-uat.qualitybrain.tech/)
 - https://github.com/QualityBrain-Company/agentstation-mcp (https://mcp-agentstation-uat.qualitybrain.tech)
+- https://github.com/QualityBrain-Company/agentstation-db-orgs
 
 ## Limbic Data Warehouse
 
