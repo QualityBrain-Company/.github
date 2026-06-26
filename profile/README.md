@@ -7,7 +7,6 @@
 ## Limbic Agent Station
 
 - https://github.com/QualityBrain-Company/agentstation-infra
-- https://github.com/QualityBrain-Company/agentstation-org
   - prod (https://agentstation.qualitybrain.tech)
   - uat  (https://uat-agentstation.qualitybrain.tech)
 - https://github.com/QualityBrain-Company/agentstation-mcp
