@@ -12,7 +12,7 @@
   - prod (https://agentstation.qualitybrain.tech)
   - uat  (https://uat-agentstation.qualitybrain.tech)
 - https://github.com/QualityBrain-Company/agentstation-mcp
-  - pord (https://mcp-agentstation-uat.qualitybrain.tech)
+  - pord (https://mcp-agentstation.qualitybrain.tech)
   - uat (https://mcp-agentstation-uat.qualitybrain.tech)
 
 ## Limbic Data Warehouse
