@@ -6,14 +6,14 @@
 
 ## Limbic Agent Station
 
+- https://github.com/QualityBrain-Company/agentstation-db-orgs
+- https://github.com/QualityBrain-Company/agentstation-core
 - https://github.com/QualityBrain-Company/agentstation-infra
   - prod (https://agentstation.qualitybrain.tech)
   - uat  (https://uat-agentstation.qualitybrain.tech)
 - https://github.com/QualityBrain-Company/agentstation-mcp
   - pord (https://mcp-agentstation-uat.qualitybrain.tech)
   - uat (https://mcp-agentstation-uat.qualitybrain.tech)
-- https://github.com/QualityBrain-Company/agentstation-db-orgs
-- https://github.com/QualityBrain-Company/agentstation-core
 
 ## Limbic Data Warehouse
 
@@ -22,6 +22,7 @@
 - https://github.com/QualityBrain-Company/data-warehouse-ingestion-service
 - https://github.com/QualityBrain-Company/data-warehouse-consumption-layer
 - https://github.com/QualityBrain-Company/data-warehouse-play-ui
+- https://github.com/QualityBrain-Company/data-warehouse-skill
   - prod (https://datawarehouse.qualitybrain.tech)
   - uat (https://uat-datawarehouse.qualitybrain.tech)
 
