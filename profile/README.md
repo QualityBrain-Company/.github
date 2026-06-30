@@ -36,6 +36,6 @@
 
 ## Research
 
-### Up
-
 - https://github.com/QualityBrain-Company/Smart-Energy-Optimization-for-Wastewater-Treatment-Using-Machine-Learning
+- https://github.com/QualityBrain-Company/Equipment-Health-Score-Anomaly-Detection-Wastewater
+- https://github.com/QualityBrain-Company/Overload-Prediction-Predictive-Maintenance-Wastewater
