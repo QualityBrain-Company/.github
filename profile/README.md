@@ -35,7 +35,6 @@
 - https://github.com/QualityBrain-Company/ownland
 
 ## Research
-
 #skills
   - https://github.com/QualityBrain-Company/resarchskill-data-science-lab
   - https://github.com/QualityBrain-Company/resarchskill-business-data-science-report
