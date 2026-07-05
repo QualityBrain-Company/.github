@@ -35,10 +35,10 @@
 - https://github.com/QualityBrain-Company/ownland
 
 ## Research
-#skills
+- skills
   - https://github.com/QualityBrain-Company/resarchskill-data-science-lab
   - https://github.com/QualityBrain-Company/resarchskill-business-data-science-report
-#Lab
+- Lab
   - https://github.com/QualityBrain-Company/Smart-Energy-Optimization-for-Wastewater-Treatment-Using-Machine-Learning
   - https://github.com/QualityBrain-Company/Equipment-Health-Score-Anomaly-Detection-Wastewater
   - https://github.com/QualityBrain-Company/Overload-Prediction-Predictive-Maintenance-Wastewater
