@@ -30,6 +30,10 @@
 
 - https://github.com/QualityBrain-Company/BOTs
 
+## Quality Gate
+
+- https://github.com/QualityBrain-Company/quality-gate
+
 ## Ownland
 
 - https://github.com/QualityBrain-Company/ownland
