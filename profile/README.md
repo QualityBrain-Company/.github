@@ -42,6 +42,7 @@
 - skills
   - https://github.com/QualityBrain-Company/resarchskill-data-science-lab
   - https://github.com/QualityBrain-Company/resarchskill-business-data-science-report
+  - https://github.com/QualityBrain-Company/resarchskill-mlops-pipeline
 - Lab
   - https://github.com/QualityBrain-Company/Smart-Energy-Optimization-for-Wastewater-Treatment-Using-Machine-Learning
   - https://github.com/QualityBrain-Company/Equipment-Health-Score-Anomaly-Detection-Wastewater
